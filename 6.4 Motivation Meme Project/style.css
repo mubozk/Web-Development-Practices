@@ -1,0 +1,23 @@
+html {
+  background-color: black;
+}
+h1 {
+  font-family: "Caveat", cursive;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Lora", serif;
+  color: white;
+}
+p {
+  color: white;
+}
+img {
+  border: 5px solid white;
+  width: 100%;
+}
+* {
+  text-align: center;
+}
+div {
+  margin-left: 25%;
+  width: 50%;
+}
